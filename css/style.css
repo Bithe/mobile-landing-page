@@ -27,3 +27,12 @@ body {
 .banner-head {
     font-family: 'Lobster', cursive;
 }
+
+.stop-writing {
+    background-image: url('../img/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: overlay;
+}
