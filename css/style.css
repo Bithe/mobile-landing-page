@@ -6,11 +6,18 @@
     background-image: linear-gradient(180deg, #2937f0, #9f1ae2);
 }
 
+.border-linear {
+    border: 1px solid white;
+    box-shadow: 10px 5px 5px rgba(103, 111, 179, 0.568);
+    border-radius: 10px;
+}
+
 
 /*  */
 
 body {
     font-family: 'Poppins', sans-serif;
+    width: 100%;
 }
 
 .banner-head {
