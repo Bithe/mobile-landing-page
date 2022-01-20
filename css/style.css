@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Poppins&display=swap');
+
+/* common class */
+
+.backgroud-color {
+    background-image: linear-gradient(180deg, #2937f0, #9f1ae2);
+}
+
+
+/*  */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-head {
+    font-family: 'Lobster', cursive;
+}
